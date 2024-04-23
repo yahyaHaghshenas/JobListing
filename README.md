@@ -1,2 +1,2 @@
 # JobListing
- React 
+  A job Listing web app made by React. 
